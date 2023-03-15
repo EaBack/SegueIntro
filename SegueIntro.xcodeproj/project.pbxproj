@@ -16,6 +16,7 @@
 		B1D4200929C0713900C3D06A /* SegueIntroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D4200829C0713900C3D06A /* SegueIntroTests.swift */; };
 		B1D4201329C0713900C3D06A /* SegueIntroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D4201229C0713900C3D06A /* SegueIntroUITests.swift */; };
 		B1D4201529C0713900C3D06A /* SegueIntroUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D4201429C0713900C3D06A /* SegueIntroUITestsLaunchTests.swift */; };
+		B1D4202229C083B100C3D06A /* DisplayResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D4202129C083B100C3D06A /* DisplayResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B1D4200E29C0713900C3D06A /* SegueIntroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SegueIntroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1D4201229C0713900C3D06A /* SegueIntroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegueIntroUITests.swift; sourceTree = "<group>"; };
 		B1D4201429C0713900C3D06A /* SegueIntroUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegueIntroUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B1D4202129C083B100C3D06A /* DisplayResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				B1D41FFA29C0713900C3D06A /* Assets.xcassets */,
 				B1D41FFC29C0713900C3D06A /* LaunchScreen.storyboard */,
 				B1D41FFF29C0713900C3D06A /* Info.plist */,
+				B1D4202129C083B100C3D06A /* DisplayResultViewController.swift */,
 			);
 			path = SegueIntro;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1D4202229C083B100C3D06A /* DisplayResultViewController.swift in Sources */,
 				B1D41FF629C0713000C3D06A /* ViewController.swift in Sources */,
 				B1D41FF229C0713000C3D06A /* AppDelegate.swift in Sources */,
 				B1D41FF429C0713000C3D06A /* SceneDelegate.swift in Sources */,
